@@ -1,4 +1,7 @@
-.navbar-default{background-color:#3C3E4D;min-height:80px;}
+.navbar-default{background-color:#3C3E4D;min-height:80px;margin:0;border: none;border-radius:unset;}
 nav .btn{;color:#fff;border:1px solid gray;border-radius:unset;min-width:100px;margin-top:20px;margin-left:20px;font-size:20px;font-family: 'Open Sans', sans-serif;
 }
-.btn:hover{background-color:#4C4F5F;color:#fff;}
+center .btn:hover{background-color:#4C4F5F;color:#fff;}
+.conquer{text-align: center;padding-top:10%;min-height:550px;background-image: url(../images/bg-1.jpg);background-size: cover;background-position: center;}
+.conquer h1{color:#fff;font-weight:500;font-size:5em;text-shadow:2px 2px #08090a;}
+.conquer p{color:#fff;font-size:2em;}
