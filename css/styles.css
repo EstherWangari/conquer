@@ -12,14 +12,14 @@ figcaption{padding-left: 10px;background-color:#F2F2F2;}
 .firstrow{padding-bottom:30px;}
 .one .btn{width:200px;text-align: center;background-color:#009330;color:#fff;margin-left:50px;font-size:1.5em}
 .bootstrap{color:#009330;}
-.item{ background-color: #F2F2F2;}
+.item{ background-color: #F2F2F2;padding-bottom:30px}
 .item img{width:100%}
 .cont{padding: 0 10px 0 10px;}
 .responsive{color:#337DBF}
 .two .btn{width:200px;text-align: center;background-color:#337DBF;color:#fff;margin-left:50px;font-size:1.5em}
 .three .btn{width:200px;text-align: center;background-color:#337DBF;color:#fff;margin-left:50px;font-size:1.5em}
 .images img{max-width:100%}
-.bgcolor{background-color:#F2F2F2;}
+.bgcolor{background-color:#F2F2F2;padding-bottom:30px}
 .bgcolor h2{text-align: center;font-weight: 600;font-size:1.5em}
 .bgcolor p{line-height:1.5;letter-spacing:0.1rem;padding-left:20px;padding-right:20px;}
 .bgcolor .btn{background-color: #fff;border:1px solid grey;width:125px;margin-left:360px;}
@@ -41,3 +41,15 @@ figcaption{padding-left: 10px;background-color:#F2F2F2;}
 .bigcolumntext h3{font-weight: 600;text-transform:capitalize;}
 .bigcolumntext .btn{border:1px solid gray;background-color:#fff;width:180px}
 .bigcolumntext a {color: #9d9d9d;font-size:1.2em}
+#bgform{background-image: url(../images/bg-3.jpg);background-size: cover;margin-top: 30px;height:600px;padding-bottom:30px;}
+#bgform .form{;max-width: 640px}
+#bgform .form input{width:100%;background-color:rgba(242, 242, 242, 0.4);;}
+#bgform .header{border:1px solid #EDEDEE;background-color:rgba(242, 242, 242, 0.4);;margin-bottom: 30px;border-radius:5px;height:150px}
+#bgform .header p{text-align: center;padding-top:20px;font-size:1.2em}
+#bgform h2{padding-top:20px;text-align: center;color:#fff;font-weight:500;font-size:2em;text-shadow:2px 2px #08090a;}
+#bgform textarea{width:100%;background-color:rgba(242, 242, 242, 0.4); }
+#bgform .btn{background-color:#333;border:1px solid #EDEDEE;width:125px;margin-left:164px;}
+#bgform a {color:#fff}
+.footertext{text-align: center;padding:30px 0;border-bottom:1px solid #EDEDEE;font-style: italic;line-height:2}
+.footertext p{color:#9d9d9d;}
+.Copyright{text-align: center;padding:30px 0;color:#9d9d9d;}
