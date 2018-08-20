@@ -35,3 +35,9 @@ figcaption{padding-left: 10px;background-color:#F2F2F2;}
 .columnstext .btn{border:1px solid gray;background-color:#fff;width:110px}
 .columnstext a {color: #9d9d9d;font-size:1.2em}
 .columnstext a:hover{background-color: #f2f2f2;color:#9d9d9d}
+.bigcolumn{background-color:#f2f2f2;margin-top:30px;}
+.bigcolumn img{max-width: 100%}
+.bigcolumntext{padding:15px 30px 30px 30px;}
+.bigcolumntext h3{font-weight: 600;text-transform:capitalize;}
+.bigcolumntext .btn{border:1px solid gray;background-color:#fff;width:180px}
+.bigcolumntext a {color: #9d9d9d;font-size:1.2em}
