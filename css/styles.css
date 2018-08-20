@@ -28,3 +28,10 @@ figcaption{padding-left: 10px;background-color:#F2F2F2;}
 .services .textservices{text-align: center;padding-top:8%;color:#fff;}
 .services h2{color:#fff;font-weight:500;font-size:3em;text-shadow:2px 2px #08090a;}
 .services p{font-size:1.5em}
+.columns{background-color:#f2f2f2;min-height: 456px;margin-top:15px}
+.columns h3{text-align: center;}
+.columnstext{padding-right:10px;padding-left: 10px;padding-bottom: 15px;}
+.columns img{max-width:100%}
+.columnstext .btn{border:1px solid gray;background-color:#fff;width:110px}
+.columnstext a {color: #9d9d9d;font-size:1.2em}
+.columnstext a:hover{background-color: #f2f2f2;color:#9d9d9d}
